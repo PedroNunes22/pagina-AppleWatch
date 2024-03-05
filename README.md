@@ -2,19 +2,15 @@
 
 ## Descrição
 
-O projeto Hashtag Watch é uma página de produto interativa desenvolvida para apresentar e permitir a seleção de diferentes opções de pulseiras para relógios Apple Watch. A página permite aos usuários visualizarem diversas opções de cores e tamanhos, além de fornecer informações detalhadas sobre o produto, incluindo preços, disponibilidade de estoque e detalhes de entrega.
+O projeto Hashtag Watch é uma página de produto interativa desenvolvida para apresentar e permitir a seleção de diferentes opções de cores e tamanhos para o relógios Apple Watch. Também fornece informações detalhadas sobre o produto, incluindo preços, disponibilidade de estoque e detalhes de entrega.
 
 ## Funcionalidades
 
-Visualização de múltiplas opções de cores de pulseiras.
+Visualização de múltiplas opções de cores.
 
 Seleção de diferentes tamanhos de caixa para o Apple Watch.
 
 Atualização dinâmica do título do produto e da imagem de visualização conforme as opções selecionadas.
-
-Exibição de informações sobre preços, parcelamento e descontos.
-
-Indicação de disponibilidade de estoque e detalhes de entrega.
 
 ## Imagens
 
